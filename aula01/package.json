@@ -1,0 +1,13 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "batatinha 123",
+  "main": "server-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server-1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

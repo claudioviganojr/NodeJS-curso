@@ -1,0 +1,9 @@
+{
+  //"workbench.colorTheme": "Monokai Dimmed"
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript"
+  ]
+}
